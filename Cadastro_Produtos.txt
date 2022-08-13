@@ -2,3 +2,4 @@ mouse
 teclado
 impressora
 scanner
+monitor 49
